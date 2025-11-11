@@ -168,4 +168,4 @@ Contributions are welcome! Please open issues or pull requests for bug fixes, im
 ---
 
 
-- Visit the [Four_sdk](https://github.com/Freemandaily/FourMeme-sdk-python) I created which powers this agent implementations
+- Visit the [Four_sdk](https://github.com/Freemandaily/FourMeme-sdk-python) I developed which powers this agent implementations
