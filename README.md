@@ -118,9 +118,7 @@ There 3 different comonent that made up the build
 3. **Set up environment variables:**
    - Create a `.env` file with your RPC URLs, private key, and any other secrets:
      ```
-     RPC_URL=https://your-bsc-node
-     WS_URL=wss://your-bsc-node
-     PRIVATE_KEY=your_private_key
+     Check out .env.example for the sample
      ```
 
 ---
