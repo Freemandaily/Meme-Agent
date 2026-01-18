@@ -1,5 +1,5 @@
 # Meme-Agent
-Meme-Agent is an automated trading and monitoring Agent for tokens on the Bsc blockchain. It is designed to discover, monitor, and trade tokens listed on a bonding curve contract, using growth and momentum-based strategies.ts through a companion SDK (Four_sdk) you developed using this agent.The Agent is built with asynchronous Python, leverages Redis for fast state management, and interacts with smart contracts via the [Four_sdk](https://github.com/Freemandaily/FourMeme-sdk-python), which I developed .
+Meme-Agent is an automated trading and monitoring Agent for tokens on the Bsc blockchain. It is designed to discover, monitor, and trade tokens listed on a bonding curve contract, using growth and momentum-based strategies through a companion SDK (Four_sdk) i developed using this agent.The Agent is built with asynchronous Python, leverages Redis for fast state management, and interacts with smart contracts via the [Four_sdk](https://github.com/Freemandaily/FourMeme-sdk-python), which I developed .
 
 ---
 
